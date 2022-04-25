@@ -1,0 +1,26 @@
+<mxfile host="65bd71144e">
+    <diagram id="_XnFd01qQcLY89W0FCZe" name="Class Diagram">
+        <mxGraphModel dx="734" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="xQZe5Vz7rgph-Ww2jbcv" name="Domain Model">
+        <mxGraphModel dx="734" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="2fyILHe54LU7t4hqWz4i-0"/>
+                <mxCell id="2fyILHe54LU7t4hqWz4i-1" parent="2fyILHe54LU7t4hqWz4i-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="cGQFcLOX2anARwe8ZYj6" name="Database">
+        <mxGraphModel dx="734" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="OtVrXeV9NzAJnaxlYCUt-0"/>
+                <mxCell id="OtVrXeV9NzAJnaxlYCUt-1" parent="OtVrXeV9NzAJnaxlYCUt-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
