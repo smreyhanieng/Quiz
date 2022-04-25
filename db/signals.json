@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "626633068c7816d6da95801c"
+  },
+  "signalNumber": "1",
+  "status": 0
+},{
+  "_id": {
+    "$oid": "626633238c7816d6da95801e"
+  },
+  "signalNumber": "2",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "626633358c7816d6da95801f"
+  },
+  "signalNumber": "3",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "626633458c7816d6da958020"
+  },
+  "signalNumber": "4",
+  "status": 2
+},{
+  "_id": {
+    "$oid": "6266334f8c7816d6da958021"
+  },
+  "signalNumber": "5",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "6266335d8c7816d6da958022"
+  },
+  "signalNumber": "6",
+  "status": 2
+},{
+  "_id": {
+    "$oid": "6266336b8c7816d6da958023"
+  },
+  "signalNumber": "7",
+  "status": 0
+},{
+  "_id": {
+    "$oid": "626633758c7816d6da958024"
+  },
+  "signalNumber": "8",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "6266337c8c7816d6da958025"
+  },
+  "signalNumber": "9",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "626633828c7816d6da958026"
+  },
+  "signalNumber": "10",
+  "status": 2
+}]

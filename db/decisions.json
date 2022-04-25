@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6266366e8c7816d6da95803c"
+  },
+  "analyst": {
+    "$oid": "626631ca8c7816d6da958010"
+  },
+  "analystDecision": false,
+  "signal": {
+    "$oid": "626633238c7816d6da95801e"
+  }
+},{
+  "_id": {
+    "$oid": "626636838c7816d6da95803d"
+  },
+  "analyst": {
+    "$oid": "626631ca8c7816d6da958010"
+  },
+  "analystDecision": true,
+  "signal": {
+    "$oid": "626633358c7816d6da95801f"
+  }
+},{
+  "_id": {
+    "$oid": "626636958c7816d6da95803e"
+  },
+  "analyst": {
+    "$oid": "626632398c7816d6da958012"
+  },
+  "analystDecision": true,
+  "signal": {
+    "$oid": "626633458c7816d6da958020"
+  }
+},{
+  "_id": {
+    "$oid": "626636ba8c7816d6da95803f"
+  },
+  "analyst": {
+    "$oid": "626632398c7816d6da958012"
+  },
+  "analystDecision": true,
+  "signal": {
+    "$oid": "6266334f8c7816d6da958021"
+  }
+},{
+  "_id": {
+    "$oid": "626636cd8c7816d6da958040"
+  },
+  "analyst": {
+    "$oid": "626632398c7816d6da958012"
+  },
+  "analystDecision": true,
+  "signal": {
+    "$oid": "6266335d8c7816d6da958022"
+  }
+},{
+  "_id": {
+    "$oid": "626636f58c7816d6da958042"
+  },
+  "analyst": {
+    "$oid": "626632478c7816d6da958014"
+  },
+  "analystDecision": false,
+  "signal": {
+    "$oid": "626633758c7816d6da958024"
+  }
+},{
+  "_id": {
+    "$oid": "626636fd8c7816d6da958043"
+  },
+  "analyst": {
+    "$oid": "626632478c7816d6da958014"
+  },
+  "analystDecision": false,
+  "signal": {
+    "$oid": "6266337c8c7816d6da958025"
+  }
+},{
+  "_id": {
+    "$oid": "626637058c7816d6da958044"
+  },
+  "analyst": {
+    "$oid": "626632478c7816d6da958014"
+  },
+  "analystDecision": false,
+  "signal": {
+    "$oid": "626633828c7816d6da958026"
+  }
+}]
