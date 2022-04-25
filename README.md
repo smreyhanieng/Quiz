@@ -1,4 +1,4 @@
-# NAICo Quiz
+# Quiz
 
 Project One:
 http://localhost:4000/ => Store token data in mongodb!!
