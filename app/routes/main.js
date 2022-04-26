@@ -5,7 +5,6 @@ const router = express.Router();
 const indexController = require('app/controllers/indexController');
 const analystController = require('app/controllers/analystController');
 
-//* Main
 // Store token data
 router.get('/', indexController.index);
 // Get analysts list
