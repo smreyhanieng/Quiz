@@ -36,3 +36,9 @@ Query example:
 ### Project Two
 _Restore the database that is in the "db" folder:_
 after => http://localhost:4000/analyst => Show analyst list
+
+### Project Three
+Unit test script in test folder (Packages: Mocha, Chai)
+
+
+_Source code lint with ESLinter_
