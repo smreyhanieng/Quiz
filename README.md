@@ -35,10 +35,10 @@ Query example:
 
 ### Project Two
 _Restore the database that is in the "db" folder:_
-after => http://localhost:4000/analyst => Show analyst list
+http://localhost:4000/analyst => Show analyst list
 
 ### Project Three
-Unit test script in test folder (Packages: Mocha, Chai)
+Unit test script is in the test folder (Packages: Mocha, Chai)
 
 </br>
 
