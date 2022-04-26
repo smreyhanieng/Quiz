@@ -38,7 +38,10 @@ _Restore the database that is in the "db" folder:_
 http://localhost:4000/analyst => Show analyst list
 
 ### Project Three
-Unit test script is in the test folder (Packages: Mocha, Chai)
+Unit test script is in the test folder. (Packages: Mocha, Chai)
+
+### Project Four
+Copy trading system class diagram and domain model in copy_trading.drawio file.
 
 </br>
 
