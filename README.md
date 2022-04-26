@@ -1,10 +1,13 @@
 # Quiz
 
-Project One:
-http://localhost:4000/ => Store token data in mongodb!!
+### Project One
 
-http://localhost:4000/graphql => Get token data with pairs
+* http://localhost:4000/ => Store token data in mongodb!!
+
+* http://localhost:4000/graphql => Get token data
+
 Query example:
+```
 {
   token(pair: "BTC/USDT") {
     timestamp
@@ -16,8 +19,20 @@ Query example:
     createdAt
     updatedAt
   }
+  
+  token(pair: "BNB/BTC") {
+    timestamp
+    open
+    high
+    low
+    close
+    volume
+    createdAt
+    updatedAt
+  }
 }
+```
 
-Project Two:
-Restore the database that is in the "db" folder, then:
-http://localhost:4000/analyst => Show analyst list
+### Project Two
+_Restore the database that is in the "db" folder:_
+after => http://localhost:4000/analyst => Show analyst list
